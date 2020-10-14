@@ -1,0 +1,3 @@
+pyttsx3
+newsapi-python
+PyAudio
